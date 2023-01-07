@@ -1,0 +1,80 @@
+button, input[type=button] {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.1), 0 17px 5px 0 rgba(0,0,0,0.1);
+  font-family: "Times New Roman", Times, serif;
+  display: inline-block;
+  background-color: rgba(208,205,205,.1);
+  border-color: rgb(37,35,35);
+  color: rgba(255,255,255,.75); 
+}
+input[type=text] {
+  font-family: "Times New Roman", Times, serif;
+  display: inline-block;
+  background-color: rgba(255, 255, 255, 0.055);
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  background-image: url('searchicon.png');
+  padding-left: 10px;
+  color: rgba(255,255,255,.75);
+  width: 275px
+}
+input[type=text]:focus {
+background-color: rgba(255, 255, 255, 0.0);
+outline: none;
+border: none;
+border-bottom-style: solid;
+border-bottom-color: rgba(255,255,255,.75);
+border-bottom-width: 1px
+}
+
+
+th {
+  text-align: center;
+}
+tr:hover {background-color: rgba(208,205,205,.1);}
+tbody>tr>:nth-child(3) {
+  text-align:right;
+ }
+
+
+html {
+color: rgba(255,255,255,.75);
+font-family: 'Times New Roman', monospace;
+text-align: center;
+background-color: rgb(37,35,35); 
+}
+html[class=quiz] {
+  font-size: 40px
+}
+body {
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+}
+legend {
+  font-size: 20px
+}
+.line-1 {
+  position: relative;
+  top: 50%;  
+  width: 24em;
+  margin: 0 auto;
+  border-right: 2px solid rgba(255,255,255,.75);
+  font-size: 100%;
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  transform: translateY(-50%);    
+}
+
+.anim-typewriter{
+animation: typewriter 3s steps(30) .5s 1 normal both,
+           blinkTextCursor 500ms steps(30) 7 normal forwards;
+}
+@keyframes typewriter{
+from{width: 0;}
+to{width: 15em;}
+}
+@keyframes blinkTextCursor{
+from{border-right-color: rgba(255,255,255,.75);}
+to{border-right-color: transparent;}
+}
