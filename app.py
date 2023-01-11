@@ -35,8 +35,11 @@ def root():
             ed = request.form.get('end-date')
             cat = request.form.get('quiz-cat')
             current_quiz = Quiz(c=str(cat))
-            make_quiz(current_quiz)
-            return render_template('quiz.html')
+            worked = make_quiz(current_quiz)
+            if worked:
+                return render_template('quiz.html')
+            else:
+                return render_template('quizerror.html')
         if 'next-quiz' in request.form:
             current_quiz = get_quiz()
             worked = make_quiz(current_quiz)
