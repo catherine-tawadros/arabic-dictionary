@@ -185,5 +185,4 @@ def search_by_cat(category):
     return arabic_dict.iloc[relatedcat.index].reset_index(drop=True)
 
 if __name__ == '__main__':
->>>>>>> master
     app.run(debug=True)
