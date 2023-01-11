@@ -3,7 +3,7 @@
 <script src="https://kit.fontawesome.com/9772f3f43d.js" crossorigin="anonymous"></script>
 <script src="{{ url_for('static',filename='js/functions.js') }}"></script>
 
-<html class="quiz">
+<html>
   <head>
     <meta charset="utf-8"/>
     <title>Arabic Dictionary</title>
@@ -16,33 +16,23 @@
     </button>
   <form class="topnav" style="display:none" id="options" method="post">
     <button href="#home" name="home">Home</button>
-    <button href="#news" name="quiz_page">Quiz</button>
+    <button href="#news" name="quiz_page" class="active">Quiz</button>
     <button href="#contact" name="chart_page">Charts</button>
     </form>
   </div>
 
-<body>
-    <p>
-		<!-- your (pl.) (m.) -->
-    </p>
-    <p>
-		تاسِعة
-    </p>
-</body>
+  <form class="start-quiz" method="post">
 
-<form class="pure-form" method="post">
-  <input type="text" id="user-ans" name="user-ans" />
-    
-<input type="button" name="answer" onclick="showDiv('toggle')" value="show"></input>
-    
-    <div id="toggle" style="display:none">
-		ninth (f.)
-    </div>
-</form>
-
-<form class="pure-form" method="post">
-    <button name="next-quiz">Next Word</button>
-    <button name="home">Home</button>
-</form>
+    <input type="date" id="start" name="start-date"
+       value="2022-09-21"
+       min="2022-09-21" max="2023-01-08">
+    <input type="date" id="end" name="end-date"
+       value="2022-09-21"
+       min="2022-09-21" max="2023-01-08">
+       <br>
+    <input type="text" id="quiz-cat" name="quiz-cat" placeholder="Enter a Category" />
+       <br>
+    <button name="start-quiz">Take the Quiz</button>
+  </form>
 
 </html>

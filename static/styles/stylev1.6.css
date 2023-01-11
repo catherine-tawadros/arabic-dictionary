@@ -31,9 +31,18 @@ th {
   text-align: center;
 }
 tr:hover {background-color: rgba(208,205,205,.1);}
-tbody>tr>:nth-child(3) {
+tbody>tr>:nth-child(3), tbody>tr>:nth-child(4) {
   text-align:right;
  }
+
+table[class=chart]>tbody>tr>:nth-child(5) {
+  text-align:right;
+}
+table[class=chart] {
+  background-color: rgb(38, 10, 10);
+  margin-left:auto;
+  margin-right:auto;
+}
 
 
 html {
@@ -77,4 +86,30 @@ to{width: 15em;}
 @keyframes blinkTextCursor{
 from{border-right-color: rgba(255,255,255,.75);}
 to{border-right-color: transparent;}
+}
+
+.contacts a{
+  color: white;
+}
+
+.topnav {
+  overflow: hidden;
+}
+.topnav button {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  border: none;
+  box-shadow: 0
+}
+.topnav button:hover {
+  background-color: rgb(65, 65, 65);
+  color: rgb(255, 255, 255);
+}
+.topnav button.active {
+  background-color: rgb(37,35,35);
+  color: white;
 }

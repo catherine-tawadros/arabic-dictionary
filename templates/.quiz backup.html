@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/stylev1.32.css') }}">
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/stylev1.37.css') }}">
 
-<html>
+<html class="quiz">
 <head>
     <meta charset="utf-8">
     <title>Arabic Dictionary</title>
@@ -13,12 +13,12 @@
 		<!-- your (pl.) (m.) -->
     </p>
     <p>
-		ـكم
+		يونْيَة
     </p>
 </body>
+
 <form class="pure-form" method="post">
-    <input type="text" id="user-ans" name="user-ans" placeholder="..." />
-</form>
+    <input type="text" id="user-ans" name="user-ans" />
 
 <script type="text/javascript">
     function showDiv(toggle){
@@ -26,11 +26,12 @@
     }
 </script>
     
-    <input type="button" name="answer" onclick="showDiv('toggle')">Show</input>
+<input type="button" name="answer" onclick="showDiv('toggle')" value="show"></input>
     
     <div id="toggle" style="display:none">
-        
+		june
     </div>
+</form>
 
 <form class="pure-form" method="post">
     <button name="quiz">Next Word</button>

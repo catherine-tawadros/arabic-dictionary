@@ -1,0 +1,197 @@
+<link href="extern.html" rel="import" />
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/stylev1.6.css') }}">
+<script src="https://kit.fontawesome.com/9772f3f43d.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static',filename='js/functions.js') }}"></script>
+
+<html class="charts">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Arabic Dictionary</title>
+    <link rel="icon" type="image/x-icon" href="../static/images/bookv2.png">
+  </head>
+
+  <div class="topnav" id="Topnav">
+    <button href="javascript:void(0);" class="icon" onclick="reverseDiv('options')">
+      <i class="fa fa-bars"></i>
+    </button>
+  <form class="topnav" style="display:none" id="options" method="post">
+    <button href="#home" name="home">Home</button>
+    <button href="#news" name="quiz_page">Quiz</button>
+    <button href="#contact" name="chart_page" class="active">Charts</button>
+    </form>
+  </div>
+
+<header>PRONOUN & CONJUGATION CHARTS</header>
+
+  <br>
+PRONOUNS
+<table border="1" class="chart">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th>first person</th>
+      <th>second person</th>
+      <th>third person</th>
+    </tr>
+  </thead>
+  <tbody class="chart">
+    <tr>
+      <td>masculine</td>
+      <td>singular</td>
+      <td>أنا</td>
+      <td>أَنْتَ</td>
+      <td>هُوَ</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>dual</td>
+      <td></td>
+      <td>أَنتُما</td>
+      <td>هُما</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>plural</td>
+      <td>نَحْنُ</td>
+      <td>أنتُم</td>
+      <td>هُم</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>singular</td>
+      <td>أنا</td>
+      <td>أَنْتِ</td>
+      <td>هِتَ</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>dual</td>
+      <td></td>
+      <td>أَنتُما</td>
+      <td>هُما</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>plural</td>
+      <td>نَحْنُ</td>
+      <td>أَنتُنَّ</td>
+      <td>هُنَّ</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+POSSESSIVE ENDINGS
+<table border="1" class="chart">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th>first person</th>
+      <th>second person</th>
+      <th>third person</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>masculine</td>
+      <td>singular</td>
+      <td>ــــي</td>
+      <td>ـــــكَ</td>
+      <td>ــــهُ</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>dual</td>
+      <td></td>
+      <td>ـــكُما</td>
+      <td>ـــهُما</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>plural</td>
+      <td>ــــنا</td>
+      <td>ـــــكُم</td>
+      <td>ــــهم</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>singular</td>
+      <td>ــــي</td>
+      <td>ـــــكِ</td>
+      <td>ــــها</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>dual</td>
+      <td></td>
+      <td>ـــكُما</td>
+      <td>ـــهُما</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>plural</td>
+      <td>ــــنا</td>
+      <td>ـــكُنَّ</td>
+      <td>ـــهُنَّ</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+PAST TENSE VERB STRUCTURE
+<table border="1" class="chart">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th></th>
+      <th>first person</th>
+      <th>second person</th>
+      <th>third person</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>masculine</td>
+      <td>singular</td>
+      <td>ــَــَــــتُ</td>
+      <td>ــَــَــــتَ</td>
+      <td>ــَــَــَـ</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>dual</td>
+      <td></td>
+      <td>ــَــَــــتُما</td>
+      <td>ــَــَـــا</td>
+    </tr>
+    <tr>
+      <td>masculine</td>
+      <td>plural</td>
+      <td>ــَــَــــنا</td>
+      <td>ــَــَــــتُم</td>
+      <td>ــَــَـــوا</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>singular</td>
+      <td>ــَــَــــتُ</td>
+      <td>ــَــَــــتِ</td>
+      <td>ــَــَــَـت</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>dual</td>
+      <td></td>
+      <td>ــَــَــــتُما</td>
+      <td>ــَــَــَــتا</td>
+    </tr>
+    <tr>
+      <td>feminine</td>
+      <td>plural</td>
+      <td>ــَــَــــنا</td>
+      <td>ــَــَــــتُنَّ</td>
+      <td>ــَــَـــنَ</td>
+    </tr>
+  </tbody>
