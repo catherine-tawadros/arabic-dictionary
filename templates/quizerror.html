@@ -1,0 +1,26 @@
+<link href="extern.html" rel="import" />
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/stylev1.6.css') }}">
+<script src="https://kit.fontawesome.com/9772f3f43d.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static',filename='js/functions.js') }}"></script>
+
+<html class="charts">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Error</title>
+    <link rel="icon" type="image/x-icon" href="../static/images/bookv2.png">
+  </head>
+
+  <div class="topnav" id="Topnav">
+    <button href="javascript:void(0);" class="icon" onclick="reverseDiv('options')">
+      <i class="fa fa-bars"></i>
+    </button>
+  <form class="topnav" style="display:none" id="options" method="post">
+    <button href="#home" name="home">Home</button>
+    <button href="#news" name="quiz_page">Quiz</button>
+    <button href="#contact" name="chart_page">Charts</button>
+    </form>
+  </div>
+
+There are no results for this category. Try something else.
+
+Possible categories include: pronouns, family, time

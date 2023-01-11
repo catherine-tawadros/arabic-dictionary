@@ -39,8 +39,11 @@ def root():
             return render_template('quiz.html')
         if 'next-quiz' in request.form:
             current_quiz = get_quiz()
-            make_quiz(current_quiz)
-            return render_template('quiz.html')
+            worked = make_quiz(current_quiz)
+            if worked:
+                return render_template('quiz.html')
+            else:
+                return render_template('quizerror.html')
         
         # nav bar
         if 'home' in request.form:
@@ -99,6 +102,9 @@ def make_quiz(q):
     # null check
     arabic_dict = arabic_dict.fillna('')
     
+    if len(arabic_dict) == 0:
+        return False
+    
     contents = None
     with open('templates/quiz.html', 'r', encoding='utf-8') as f:
         contents = f.readlines()
@@ -119,6 +125,8 @@ def make_quiz(q):
         f.write('last')
         '''
         f.close()
+    
+    return True
         
         
 #### SEARCH FEATURES ####
