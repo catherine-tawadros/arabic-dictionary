@@ -1,0 +1,38 @@
+<link href="extern.html" rel="import" />
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/stylev1.6.css') }}">
+<script src="https://kit.fontawesome.com/9772f3f43d.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static',filename='js/functions.js') }}"></script>
+
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Arabic Dictionary</title>
+    <link rel="icon" type="image/x-icon" href="../static/images/bookv2.png">
+  </head>
+
+  <div class="topnav" id="Topnav">
+    <button href="javascript:void(0);" class="icon" onclick="reverseDiv('options')">
+      <i class="fa fa-bars"></i>
+    </button>
+  <form class="topnav" style="display:none" id="options" method="post">
+    <button href="#home" name="home">Home</button>
+    <button href="#news" name="quiz_page" class="active">Quiz</button>
+    <button href="#contact" name="chart_page">Charts</button>
+    </form>
+  </div>
+
+  <form class="start-quiz" method="post">
+
+    <input type="date" id="start" name="start-date"
+       value="2022-09-21"
+       min="2022-09-21" max="2023-01-08">
+    <input type="date" id="end" name="end-date"
+       value="2022-09-21"
+       min="2022-09-21" max="2023-01-08">
+       <br>
+    <input type="text" id="quiz-cat" name="quiz-cat" placeholder="Enter a Category" />
+       <br>
+    <button name="start-quiz">Take the Quiz</button>
+  </form>
+
+</html>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿ENGLISH,ARABIC,ROOT,CATEGORY,SOURCE
 َ,فَتْحة,,"mark, grammar",lesson 8
 ُ,ضَمة,,"mark, grammar",lesson 8
@@ -426,3 +427,433 @@ your (m.),ـكَ,,"possession, pronouns",lesson 13
 your (pl.) (f.),ـكن,,"possession, pronouns",
 your (pl.) (m.),ـكم,,"possession, pronouns",lesson 13
 you're welcome,عفواً,,dialogue,book
+=======
+﻿ENGLISH,ARABIC,ROOT,CATEGORY,SOURCE
+َ,فَتْحة,,"mark, grammar",lesson 8
+ُ,ضَمة,,"mark, grammar",lesson 8
+ِ,كَسْرة,,"mark, grammar",lesson 8
+ّ,قَلَّ,,"mark, grammar",lesson 8
+"""in it"" (f.)",فيه,,,lesson 15
+"""in it"" (m.)",فيها,,,lesson 15
+[you] live (f.),تسكنين,,"question, places, introduction, dialogue",lesson 7
+[you] live (m.),تسكن,,"question, places, introduction, dialogue",lesson 7
+a beautiful city,مدينة جميلة,,grammar,lesson 12
+a lot/very,كَثير,,,
+a third,ثُلث,ث-ل-ث,"time, numbers",chapter 2.3
+abu dhabi,أبو طبي,,"cities, places",lesson 7
+all praises to god,الحَمْدُ لِلّه,,"dialogue, religion",lesson 11
+always,دائِمًا,,,
+america,أَمريكا,,"country, place",lesson 8
+american,أَمريكيّ,,"nationality, adjectives",lesson 8
+and you?,وَ أنَتَ؟,,dialogue,lesson 11
+apartment,شقّة,,,
+apple,تُفّاحة,,"food, fruit",chapter 2.9
+apples,تُفَّاح,,"food, fruit",chapter 2.9
+april,أبْريل,,,
+arabic,الَرَبِيّ,,language,
+august,أَغُسْطُس,,,
+baghdad,بغداد,,"countries, places",book
+banana,مَوْزة,,"food, fruit",chapter 2.9
+bananas,مَوْز,,"food, fruit",chapter 2.9
+barrier,حجاب ,,,lesson 5
+bathroom,حمّام,,,
+bathrooms ,حمّامات,,,
+beautiful,جميل,,adjectives,lesson 5
+beauty,جمال,,love,lesson 5
+bedroom,غُرْفة نوم,,,
+beruit,بيروت,,"city, place",book
+big,كَبير,,"size, adjectives",book
+black (f.),سَوْداء,,colors,chapter 2.8
+black (m.),أَسْوَد,,colors,chapter 2.8
+blue (f.),زرْقاء,,colors,chapter 2.8
+blue (m.),أَزرق,,colors,chapter 2.8
+book,كِتاب,,class,book
+books,كتابان,,,
+bread,خُبْز,,food,chapter 2.9
+breakfast,الفُطور,,food,chapter 2.9
+brother,أَخ,,"family, relatives",chapter 2.7
+brothers/siblings,إِخْوة,,"family, relatives",
+brown,بُنّيّ,,colors,chapter 2.8
+bus,باص,,"transportation, travel",
+but,ولٰكِن,,,lesson 8
+canada,كندا,,"countries, places",book
+capital,عاصِمة,,,
+car,سَيّارة,,"transportation, travel",
+cat,قِطةٌ,,,lesson 13
+charming,رقَيّة,,adjectives,lesson 8
+cheese (collective),جُبن,,food,chapter 2.9
+cheese (unit),جُبنة,,food,chapter 2.9
+chicago,شيكاغو,,"cities, places",homework
+chicken,دَجاج,,"food, meat",chapter 2.9
+city,مَدينة,,"cities, places",
+class,صَفّ,,,book
+classes,الصفوف,,,
+clay oven,تَنّور,,,lesson 8
+clock,ساعة,س-ا-ع-ة,time,book
+close to,قريب من,,"place, location",
+coffee,القَهْوَة,,food,chapter 2.9
+cold,بارد,,weather,
+college,كُلَّية,,"school, class",lesson 10
+color,لَوْن,,colors,chapter 2.8
+colors,ألْوان,,colors,chapter 2.8
+computer,كمبيوتر,,"school, class",lesson 10
+computer science,علْم الكمبيوتر,,"school, class",lesson 10
+country,دَوْلة,,,
+crown,تاج,,,lesson 5
+dad,أَب,,"family, relatives",chapter 2.7
+daddy,بابا,,"family, relatives",
+damascus,دمشق,,"cities, places",book
+day,اليوم,,time,
+dear friend,خليل,,love,lesson 5
+december,ديسَمْبر,,,
+dinner,العَشاء,,food,chapter 2.9
+doctor,طبيب,,jobs,book
+door,باب,,,book
+doors,بابان,,,
+dress,فُسْتان,,clothes,chapter 2.8
+dubai,دُبَي,,"cities, places",
+east,شرق,,direction,book
+eastern,شَرْقيّ,,"direction, adjectives",book
+eating room,غُرْفة أَكل,,,
+egg,بيضة,,food,chapter 2.9
+eggs,بيض,,food,chapter 2.9
+egypt,مصر,,"countries, places",book
+eight,ثَمانِية,,numbers,lesson 7
+eigthth (f.),ثاسِعة,,,
+eleventh (f.),الحدية عَشر,,,
+engineer,مُهندس,,jobs,book
+engineers,مهندسان,,,
+exactly,تَماماً,,time,
+except,إلا,,,book
+extended family,عائِلة,,"family, relatives",chapter 2.7
+falafel,فلافل,,food,lesson 5
+fall,الخَريف,,"weather, seasons",
+family (generalized),أَهل,,"family, relatives",chapter 2.7
+far from,بعيد عن,,"place, location",
+february,فِبْراير,,,
+festival,عيد,,,lesson 8
+few,قليل,,,lesson 5
+fifth (f.),خامسة,خ-م-س,,
+fifty,خمسين,خ-م-س,numbers,book
+fine/good,تَمام,,dialogue,lesson 11
+first (f.),أولى,,,
+first (m.),أوّل,,time,chapter 2.3
+fish,سَمَك,,"food, meat",chapter 2.9
+five,خَمْسة,خ-م-س,numbers,lesson 7
+four,أَرْبَعة,ر-ب-ع,numbers,lesson 7
+fourth (f.),رابِعة,ر-ب-ع,,
+french,فَرنُسيّ,,"nationality, country, place",lesson 10
+friday,يوم الجُمُعة,ج-م-ع,"days, week, time",lesson 12
+friend,رَفيق,,,lesson 9
+friend,صاحِب(ة),,,
+from,مَن,,prepositions,lesson 5
+from where (formal),مِن أَينَ؟,,"interrogatives, question, dialogue",
+from where (informal),مِن وَين؟,,"interrogatives, question, dialogue",
+from/at,في,,preposition,lesson 5
+god,اللّٰه,,religion,lesson 7
+goodbye,مَعَ السّلامة,,dialogue,lesson 11
+green (f.),خَضْراء,,colors,chapter 2.8
+green (m.),أخْضَر,,colors,chapter 2.8
+haaj,حج,,religion,lesson 5
+half,نُصّ,,"time, numbers",chapter 2.3
+happy,سَعيد,,"emotions, feelings",lesson 10
+he,هُوَ,,pronouns,lesson 12
+he has,عَندهُ,,"possession, dialogue",
+he said,قال,,,lesson 6
+headscarf,حجاب,,clothes,chapter 2.8
+hello,السّلا مُ عَليْكم,,dialogue,lesson 11
+hello,أَهْلاً وَ سَهْلا,,"dialogue, greeting",lesson 11
+hello,صَباح الخيْر,,"dialogue, greeting",lesson 11
+hello (response),صَباح النّور,,"dialogue, greeting",lesson 11
+hello (response) [and may peace be upon you],وَ عَليْكُم السَّلام,,dialogue,lesson 11
+her,ـها,,"possession, pronouns",lesson 13
+his,ـهُ,,"possession, pronouns",lesson 13
+holiday,عيد,,,lesson 8
+homework,واخِب,,"school, class",lesson 7
+hospital,مُسْتَشْفى,,"place, location",
+hot,حارّ,,weather,
+hot,حامي,,weather,
+hour,ساعة,س-ا-ع-ة,time,chapter 2.3
+house,بيت,,,book
+houses,بيوت,,place,book
+how (dialect),كيف...؟,,"dialogue, question",lesson 15
+how (formal),كَيْفَ...؟,,"interrogatives, question",
+how are you? (formal),كَيْفَ حالُك؟,,dialogue,lesson 11
+how are you? (informal),كيفَك؟,,dialogue,lesson 11
+how many?,كَم؟,,question,lesson 14
+how old are you?,كَم عُمْرَك؟,,dialogue,lesson 11
+I,أنا,,pronouns,lesson 5
+I don't love,لا أُحِبّ,ح-ي-ب,,
+I don't love (dialect),ما بحِبّ,ح-ي-ب,,
+I don't work,لا أَعْمل,,"dialogue, work",lesson 11
+I eat,أكل,,food,chapter 2.9
+I have,عَندي,,"possession, dialogue",
+I have class,صفوف عىدي,,,
+I live,أَسْكُن في,,"dialogue, place, introduction",lesson 11
+I live (f.) (dialect),ساكِنة,,"dialogue, question",lesson 15
+I live (m.) (dialect),ساكِن,,"dialogue, question",lesson 15
+I love,أُحِبّ,ح-ي-ب,,
+I love (dialect),بحِبّ,ح-ي-ب,,
+I study,أَدْرُس,د-ر-س,"school, class, dialogue",lesson 10
+I study,أَدْرُس,د-ر-س,"dialogue, school",lesson 11
+I work at,أعمل في,,"dialogue, work",lesson 11
+I work in/with,أَعْمَلَ مع,,"dialogue, work",lesson 11
+illinois,إِلينوي,,"state, place",
+I'm good,بِخيْر,,dialogue,lesson 11
+intern,مُساعِدَة,,"dialogue, work",lesson 11
+iraq,العراق,,"countries, places",book
+iraqi,عراقيّ,,"nationality, adjectives",book
+it is located,تَقع,,"place, location",
+jacket,جاكيت,,clothes,chapter 2.8
+january,يناير,,,
+jerusalem,القدس,,"cities, places",book
+juice,عَصير,,"food, drink",chapter 2.9
+july,يوليَة,,,
+june,يونْيَة,,,
+kitchen,مَطْبَخ,,,
+knowledge,علْم,ع-ل-م,"school, class",lesson 10
+kuwait,الكويت,,"countries, places",book
+kuwaiti,كويتيّ,,"nationality, adjectives",book
+lake,بُحيْرة,,"place, location",
+last (m.),آخِر,,time,chapter 2.3
+lebanese,لبنانيّ,,"nationality, adjectives",book
+lebanon,لبنان,,"countries, places",book
+libya,ليبيا,,"countries, places",book
+light,نور,,,lesson 2
+lunch,الغَداء,,food,chapter 2.9
+magical,رقَيّة,,adjectives,lesson 8
+march,مارس,,,
+may,مايو,,,
+me too,أنا كَمان,,dialogue,lesson 11
+medium,مُتَوَسِّط,,,
+milk,حليب,,"food, drink",chapter 2.9
+minus,إلا,,"time, numbers",chapter 2.3
+minute,دَقيقة,,time,chapter 2.3
+minutes,دَقائِق,,time,chapter 2.3
+moderate,معتَدِل,,weather,
+mom,أُمّ,,"family, relatives",chapter 2.7
+mommy,ماما,,"family, relatives",
+monday,يوم الٱِثْنَين,ث-ن-ي,"days, week, time",lesson 12
+month,الشَّهر,,time,chapter 2.3
+moon,قمر,,,book
+much,أبو,,,lesson 7
+muslim,مُسْلم,,religion,lesson 9
+my,ـي,,"possession, pronouns",lesson 13
+my dog,كلبي,,"pet, animal",lesson 4
+my friends,اصْحابي,,,
+my heart,قلبي,,love,lesson 4
+my love (f.),حبيبتي,ح-ي-ب,love,lesson 7
+my love (m.),حبيبي,ح-ي-ب,love,lesson 4
+my name is,اِسمي,,"dialogue, introduction",lesson 11
+my name is,اِسمي,,"introduction, dialogue",
+new,جَديد,,"age, adjectives",lesson 8
+new york,نيويورك,,"cities, places, states",homework
+nice,جيد,,weather,
+nice to meet you,فُرْصة سَعيدة,,dialogue,lesson 10
+nice to meet you,فُرْصة سَعيدة,,dialogue,lesson 11
+nine,تِسْعة,,numbers,lesson 7
+ninth (f.),تاسِعة,,,
+no,لا,,,lesson 5
+north,شَمال,,direction,book
+northern,شماليّ,,"direction, adjectives",book
+northwestern,نورثوَستَرْن,,"places, class, school",
+november,نوفَمْبِر,,,
+now,هلاّ,,time,chapter 2.3
+nuclear family,أُسْرة,,"family, relatives",chapter 2.7
+ocean,المُحيط,,,
+october,أُكْتُوبَر,,,
+old,كَبير,,"age, adjectives",lesson 8
+one,واحِد,و-ح-د,numbers,lesson 7
+only,الوَلَد,و-ح-د,"family, relatives",chapter 2.7
+orange,بُرْتُقاليّ,,colors,chapter 2.8
+orange,بُرْتُقالة,,"food, fruit",chapter 2.9
+oranges,بُرْتُقال,,"food, fruit",chapter 2.9
+our,ـنا,,"possession, pronouns",lesson 13
+page,صَفحة,,,book
+pants,بنطلون,,clothes,chapter 2.8
+pardon me,عَغْوًا,,dialogue,lesson 9
+parents (dual),أَبوان,,"family, relatives",
+pink,زهريّ,,colors,chapter 2.8
+plane,طائِرة,,"transportation, travel",
+plane,طيّارة,,"transportation, travel",
+pleased to meet you,تَشَرَّفْنا,,"dialogue, greeting",lesson 11
+pleasure to meet you,تَشَرَّفْنا,,dialogue,lesson 10
+potato,بطاطا,,food,book
+president,رَئيس,,"titles, jobs, politics",lesson 9
+prince,أمير,,"titles, politics",lesson 9
+professor,أُستاذ,,,book
+professors,أساتِذة,,,
+purple,بَنَفْسَجيّ,,colors,chapter 2.8
+quarter,رُبع,ر-ب-ع,"time, numbers",chapter 2.3
+questions,أَسْئِلَة,,class,lesson 9
+rain,مطر,,weather,
+rainy,مُمَطِر,,weather,
+red (f.),حَمْراء,,colors,chapter 2.8
+red (m.),أَحْمَر,,colors,chapter 2.8
+red meat,لَحم,,"food, meat",
+restaurant,مَطعم,,"place, location, food",
+restaurants,مَطاعِم,,"place, location, food",
+rice,زُزّ,,food,
+road,شارع,,"transportation, travel",
+room,غُرْفة,,,
+rooms,غُرَف,,,
+same,نَفْس,,,lesson 10
+saturday,يوم السَّبت,س-ب-ع,"days, week, time",lesson 12
+school,مَدْرَسة,د-ر-س,"place, location",
+schools,مَدارِس,د-ر-س,"place, location",
+science,علْم,ع-ل-م,"school, class",lesson 10
+seasons of the year,فصول السِّنة,,"weather, seasons",
+second (f.),ثانية,ث-ن-ي,,
+september,سِبْتِمْبِر,,,
+seven,سبْعة,س-ب-ع,numbers,lesson 7
+seventh (f.),سابِعة,س-ب-ع,,
+shami,شامي,,,lesson 6
+she,هِتَ,,pronouns,lesson 12
+she has,عَندها,,"possession, dialogue",
+shirt,قَميص,,clothes,chapter 2.8
+shoes,كُندَرة,,clothes,chapter 2.8
+sister,أُخْت,,"family, relatives",chapter 2.7
+sisters,أَخَوات,,"family, relatives",
+sitting room,غُرْفة جُلوس,,,
+six,سِتّة,س-ت-ة,numbers,lesson 7
+sixth (f.),سادسة,س-ت-ة,,
+small,صغير,,"size, adjectives",book
+snow,ثلج,,weather,
+snowy,مُثَلِج,,weather,
+soap,صابون,,,lesson 6
+sometimes,أحْيانًا,,,
+south,جنوب,,direction,book
+southern,جَنوبيّ,,"direction, adjectives",book
+spring,الرَّبيع,,"weather, seasons",
+state,وِلاية,,"places, states",lesson 8
+stop,بس,,,lesson 4
+street,شارع,,places,lesson 7
+student,طالِب,,"job, class, school",book
+students (f.),طالِبتَين,,,
+sudan,السودان,,"countries, places",book
+sugar,السُكَّر,,food,
+summer,الصَّيْف,,"weather, seasons",
+sun,شمس,,,book
+sunday,يوم اُلأَحد,أ-ح-د,"days, week, time",lesson 12
+sunny,مُشَمِس,,weather,
+syria,سوريا,,"countries, places",book
+syrian,سوريّ,,"nationality, adjectives",book
+teacher,أُستاذ,,"jobs, class, school",book
+ten,عَشرة,,numbers,lesson 7
+tenth (f.),عاشِرة,,,
+thank you,شُكراً,,dialogue,lesson 9
+the arab country,الدَّولة الَرَبِيّة,,,
+the arabic book,الكِتاب الَرَبِيّ,,,
+the arabic language,اللُغة الَرَبِيّة,,,
+the beautiful city,ألمدينة الجميلة,,grammar,lesson 12
+the black sea,البَحر الأسْود,,"place, location, geography",
+the city is beautiful,المدينة جميلة,,grammar,lesson 12
+the hour,السّاعة,س-ا-ع-ة,,
+the last day,اليوم الآخِر,,time,
+the mediterranean sea,البَحر المتَوَسِّط,,"place, location, geography",
+the pleasure is mine,الشَّرَفاي,,dialogue,lesson 10
+the red sea,البَحر الأحْمر,,"place, location, geography",
+the sea,البَحر,,"place, location, geography",
+the time is _____,السَّاعةُ الــــــ,س-ا-ع-ة,,
+the white sea,البَحر الأبيَض,,"place, location, geography",
+their (pl.) (f.),ـهن,,"possession, pronouns",
+their (pl.) (m.),ـهم,,"possession, pronouns",lesson 13
+they,هُم,,pronouns,lesson 12
+they (pl.) (f.) have,عَندهن,,"possession, dialogue",
+they (pl.) (m.) have,عَندهم,,"possession, dialogue",
+third (f.),ثالثة,ث-ل-ث,,
+this (f.),هَذَا,,,lesson 13
+this (f.),هٰذِهِ,,,
+this (m.),هَذه,,,lesson 13
+this (m.),هٰذا,,,
+three,ثَلاثة,ث-ل-ث,numbers,lesson 7
+thursday,يوم الخَميس,خ-م-س,"days, week, time",lesson 12
+time,ساعة,س-ا-ع-ة,time,chapter 2.3
+tired,تعبان,,adjectives,lesson 6
+to,إلا,,preposition,book
+today,اليوم,,time,chapter 2.3
+tomato,بَنْدورة,,"food, fruit",chapter 2.9
+train,قِطار,,"transportation, travel",
+tripoli,طرابلس,,"cities, places",book
+tuesday,يوم الثْلاثاء,ث-ل-ث,"days, week, time",lesson 12
+tunisa,تونيس,,"countries, places",book
+twelfth (f.),الثانية عَشر,,,
+two,إِثْنان,ث-ن-ي,numbers,lesson 7
+two brothers,أخوان,,"family, relatives",
+two rooms,غُرْفتان,,house,
+university,جامِعَة,ج-م-ع,"places, class, school",
+very,جِدًّا,,,
+very far from,بعيد عن جدًّا,,,
+water,مَيّة,,"food, drink",chapter 2.9
+water,ماء,,"food, drink",chapter 2.9
+we,نَخنُ,,pronouns,lesson 12
+we have,عَندنا,,"possession, dialogue",
+weather,الجَوّ,,weather,
+weather,الطَّقْس,,weather,
+wednesday,يوم الأَرْبِعاء,ر-ب-ع,"days, week, time",lesson 12
+week,الأُسبوع,,time,
+welcome,مَرْحَبًا,,"dialogue, greeting",lesson 11
+welcome,مَرْجَبًا,,dialogue,lesson 9
+west,غرب,,direction,book
+what (before noun) (formal),ما...؟,,"interrogatives, question",
+what (before noun) (informal),شو...؟,,"interrogatives, question",
+what (before verb) (formal),ماذا...؟,,"interrogatives, question",
+what (before verb) (informal),أيْش...؟,,"interrogatives, question",
+what (dialect),شو,,"dialogue, question",lesson 15
+what (formal),ماذا,,"dialogue, question",lesson 15
+what (informal),ما,,"dialogue, question",lesson 15
+what do you drink?,ماذا تشرَب؟,,"food, drink",
+what do you eat?,ماذا تاكل؟,,food,
+what do you study?,ماذا تَدْرُس,,"school, class, dialogue",lesson 10
+what do you study? (f),ماذا تَدْرُسين؟,,"dialogue, school",lesson 11
+what do you study? (m),ماذا تَدْرُس؟,,"dialogue, school",lesson 11
+what is the weather like in ____ today?,كَيْفَ الطَّقْس مدينة ـــــــــ اليوم؟,,weather,
+what time is it?,كم السّاعة؟,,,
+what's up?,شو أخبارَك؟,,dialogue,lesson 11
+what's your name?,شو ٱِسمَك؟,,"dialogue, introduction",lesson 11
+when (dialect),إِمْتى؟,,,
+when (formal),مَتَى؟,,"interrogatives, question, time",
+when (informal),إِمْتى؟,,"interrogatives, question, time",
+where (formal),أَينَ؟,,"interrogatives, question",
+where (informal),وَين؟,,"interrogatives, question",
+where are you from?,من أَيْنَ أنْتَ؟,,"dialogue, place, introduction",lesson 11
+where do you live?,أَيْنَ تَسْكن؟,,"dialogue, place, introduction",lesson 11
+where do you work? (f),ماذا تَعْملين؟,,"dialogue, work",lesson 11
+where do you work? (m),ماذا تَعْمل؟,,"dialogue, work",lesson 11
+who (formal),مَن؟,,"interrogatives, question",
+who (informal),مين؟,,"interrogatives, question",
+why (formal),لِماذا؟,,"interrogatives, question",
+why (informal),لَيْش؟,,"interrogatives, question",
+window,شُبّاك,,,book
+winter,الشِّتاء,,"weather, seasons",lesson 18
+with _____,بــــــ,,,
+with milk,بحَليب,,,
+with sugar,بِسُكر,,,
+without,بِدون,,,
+without sugar,بِدون سُكر,,,
+year,السَّنة,,time,
+yellow (f.),صَفْراء,,colors,chapter 2.8
+yellow (m.),أَصْفَر,,colors,chapter 2.8
+yemen,اليمن,,"countries, places",book
+yemeni,يمنيّ,,"nationality, adjectives",book
+yes,أ,,,lesson 10
+yes,أيوا,,,lesson 10
+yes,نَعَم,,,lesson 8
+yes/no question prompt (formal),هَلْ...؟,,"interrogatives, question",
+yes/no question prompt (informal),أَ...؟,,"interrogatives, question",
+you (f.),أَنْتِ,,pronouns,lesson 12
+you (f.) have,عَندُكِ,,"possession, dialogue",
+you (m.),أَنْتَ,,pronouns,lesson 12
+you (m.) have,عَندُكَ,,"possession, dialogue",
+you (pl.),أنتُم,,pronouns,lesson 12
+you (pl.) (f.) have,عَندكن,,"possession, dialogue",
+you (pl.) (m.) have,عَندكم,,,
+young,صَغير,,"age, adjectives",lesson 8
+young people,شباب,,,lesson 4
+young person,شاب,,,lesson 4
+your (f.),ـكِ,,"possession, pronouns",lesson 13
+your (m.),ـكَ,,"possession, pronouns",lesson 13
+your (pl.) (f.),ـكن,,"possession, pronouns",
+your (pl.) (m.),ـكم,,"possession, pronouns",lesson 13
+you're welcome,عفواً,,dialogue,book
+>>>>>>> master
