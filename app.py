@@ -163,7 +163,7 @@ def write(table):
     
 def search_by_word(word):
     arabic_dict = pd.read_csv('arabic words.csv')
-    arabic_dict = arabic_dict.fillna('')
+    arabic_dict = arabic_dict.fillna('').drop(columns=["SOURCE","DATE","EQUIVALENTS"])
     
     if word=='':
         return arabic_dict
@@ -188,7 +188,7 @@ def search_by_word(word):
 
 def search_by_cat(category):
     arabic_dict = pd.read_csv('arabic words.csv')
-    arabic_dict = arabic_dict.fillna('')
+    arabic_dict = arabic_dict.fillna('').drop(columns=["SOURCE","DATE","EQUIVALENTS"])
     
     allcats = [x.strip() for x in category.split(',')]
     relatedcat = arabic_dict.apply(lambda x: sum(cat in x.CATEGORY for cat in allcats), axis=1).sort_values(ascending=False)
