@@ -21,20 +21,22 @@
     </form>
   </div>
 
-  Enter a category for your quiz:
+  Enter (optional) specifications for your quiz:
 
   <form class="start-quiz" method="post">
-
-    <!-- <input type="date" id="start" name="start-date"
+    <br>
+    <input type="date" id="start" name="start-date"
        value="2022-09-21"
        min="2022-09-21" max="2023-01-08">
     <input type="date" id="end" name="end-date"
        value="2022-09-21"
        min="2022-09-21" max="2023-01-08">
-       <br> -->
-    <input type="text" id="quiz-cat" name="quiz-cat" placeholder="Enter a Category" />
-       <br>
-    <button name="start-quiz">Take the Quiz</button>
+       <br> <br>
+    <input type="text" id="quiz-cat" name="quiz-cat" placeholder="Category" />
+       <br> <br>
+    <input type="text" id="chapter-number" placeholder="Unit Number">
+    <br> <br>
+    <button id="start-quiz" name="start-quiz">Take the Quiz</button>
   </form>
 
   <script>
