@@ -1,17 +1,17 @@
 ENGLISH,ARABIC,ROOT,CATEGORY,SOURCE,DATE,EQUIVALENTS
-by plane,بالطائرة,ط-ي-ر,"travel, transportation",chapter 3.2,2023-01-13,
-fair,أُجرَة,أ-ج-ر,travel,chapter 3.1,2023-01-03,rent
-he arrived,وَصَلَ,,"verbs, travel, past tense",chapter 3.4,2023-01-09,
-he speaks,بيحكي,,"verbs, travel, past tense",chapter 3.4,2023-01-09,
-he traveled,سافر,س-ف-ر,travel,chapter 3.1,2023-01-03,
-he went (dialect),راحَ,,"verbs, travel, past tense",chapter 3.4,2023-01-09,
-he went (formal),ذَهَبَ,,"verbs, travel, past tense",chapter 3.4,2023-01-09,
-here,هون,,"place, travel",chapter 3.4,2023-01-09,
-it (f.) flew,طارَت,ط-ي-ر,travel,chapter 3.1,2023-01-03,"she flew, it flew, it (f) flew, it flew (f), it flew (f.)"
-nationality,جِنسِيّة,ج-ن-س,travel,chapter 3.1,2023-01-03,
-number,رَقَم,ر-ق-م,travel,chapter 3.1,2023-01-03,
-passport,جِواز سَفَر,,travel,chapter 3.1,2023-01-03,
-she flew,طارَت,ط-ي-ر,travel,chapter 3.1,2023-01-03,"it (f.) flew, it flew, it (f) flew, it flew (f), it flew (f.)"
-she traveled,سافرت,س-ف-ر,travel,chapter 3.1,2023-01-03,
-visa,تأشيرة,أ-ش-ر,travel,chapter 3.1,2023-01-03,
-visit,زِيارة,ز-و-ر,travel,chapter 3.1,2023-01-03,
+black (f.),سَوْداء,,colors,chapter 2.8,,"black, black (f)"
+black (m.),أَسْوَد,,colors,chapter 2.8,,black
+blue (f.),زرْقاء,,colors,chapter 2.8,,"blue, blue (f)"
+blue (m.),أَزرق,,colors,chapter 2.8,,
+brown,بُنّيّ,,colors,chapter 2.8,,
+color,لَوْن,,colors,chapter 2.8,,
+colors,ألْوان,,colors,chapter 2.8,,
+green (f.),خَضْراء,,colors,chapter 2.8,,"green, green (f)"
+green (m.),أخْضَر,,colors,chapter 2.8,,green
+orange,بُرْتُقاليّ,,colors,chapter 2.8,,
+pink,زهريّ,,colors,chapter 2.8,,"pink (m), pink (m.)"
+purple,بَنَفْسَجيّ,,colors,chapter 2.8,,
+red (f.),حَمْراء,,colors,chapter 2.8,,"red, red (f)"
+red (m.),أَحْمَر,,colors,chapter 2.8,,red
+yellow (f.),صَفْراء,,colors,chapter 2.8,,"yellow, yellow (f)"
+yellow (m.),أَصْفَر,,colors,chapter 2.8,,
