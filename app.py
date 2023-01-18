@@ -10,6 +10,7 @@ from flask import render_template
 from flask import request
 import pandas as pd
 import random
+import datetime
 # import datetime
 
 app = Flask(__name__)
@@ -31,18 +32,23 @@ def root():
         
         # quiz functions
         if 'start-quiz' in request.form:
-            sd = request.form.get('start-date')
-            ed = request.form.get('end-date')
             cat = request.form.get('quiz-cat')
-            current_quiz = Quiz(c=str(cat))
+            start_date = datetime.datetime.strptime(
+                     request.form.get("start-date"),
+                     '%Y-%m-%d')
+            end_date = datetime.datetime.strptime(
+                     request.form.get("end-date"),
+                     '%Y-%m-%d')
+            chapter = request.form.get("chapter-number")
+            current_quiz = Quiz(c=str(cat), sd=start_date, ed=end_date, ch=chapter)
             worked = make_quiz(current_quiz)
             if worked:
                 return render_template('quiz.html')
             else:
                 return render_template('quizerror.html')
         if 'next-quiz' in request.form:
-            current_quiz = get_quiz()
-            worked = make_quiz(current_quiz)
+            # current_quiz = get_quiz()
+            worked = make_quiz()
             if worked:
                 return render_template('quiz.html')
             else:
@@ -62,20 +68,40 @@ def root():
 #### QUIZ FEATURES ####
     
 class Quiz:
-    def __init__(self, sd='', ed='', c=''):
+    def __init__(self, sd=None, ed=None, c='', ch=None):
         self.start_date = sd
         self.end_date = ed
         self.category = c
+        self.chapter = ch
+        if self.start_date is None and self.end_date is None:
+            self.include_all_dates = True
+        else:
+            self.include_all_dates = False
             
+        '''
         with open('quiz_params.txt', 'w', encoding='utf-8') as f:
             contents = [self.start_date+'\n', self.end_date+'\n', self.category+'\n']
             f.writelines(contents)
             f.close()
+        '''
         
         self.table = pd.read_csv('arabic words.csv')
         if self.category != '':
             self.table = self.table[self.table['CATEGORY'].notna()]
             self.table = self.table.loc[self.table.apply(lambda x: True if c in x[3] else False, axis=1)]
+        if not self.include_all_dates:
+            self.table = self.table.loc[self.table["DATE"] != ""]
+            self.table["DATE"] = pd.to_datetime(self.table["DATE"], format="%d.%m.%y")
+            self.table = self.table.loc[self.table["DATE"] >= self.start_date].loc[self.table["DATE"] <= self.end_date]
+        if self.chapter != "" and self.chapter is not None:
+            self.table = self.table.loc[self.table["SOURCE"].notna()]
+            self.table = self.table.loc[self.table["SOURCE"].str.contains("chapter "+self.chapter)]
+            
+        with open('quiz_params.txt', 'w', encoding='utf-8') as f:
+            contents = self.table.to_csv(index=False)
+            f.writelines(contents)
+            f.close()
+            
             
     def get_sd(self):
         return self.start_date
@@ -86,9 +112,11 @@ class Quiz:
     def get_table(self):
         return self.table
 
-
+'''
 def get_quiz():
     contents = None
+    # CHANGE ALL THIS
+    
     with open('quiz_params.txt', 'r', encoding='utf-8') as f:
         contents = f.readlines()
         params = ['' for i in range(3)]
@@ -97,11 +125,16 @@ def get_quiz():
             if el is not None and el != '':
                 params[i] = el[:len(el)-1]
         f.close()
-    return Quiz(sd=params[0], ed=params[1], c=params[2])
-
-def make_quiz(q):
     
-    arabic_dict = q.get_table()
+    return Quiz(sd=params[0], ed=params[1], c=params[2])
+'''
+
+def make_quiz(q=None):
+    
+    if q is not None:
+        arabic_dict = q.get_table()
+    else:
+        arabic_dict = pd.read_csv("quiz_params.txt")
     # null check
     arabic_dict = arabic_dict.fillna('')
     
@@ -120,13 +153,6 @@ def make_quiz(q):
     with open('templates/quiz.html', 'w', encoding='utf-8') as f:
         f.writelines(contents)  
         # f.write(str(len(contents)))
-        '''
-        f.seek(0,0)
-        f.write(str(f.tell()))
-        f.write('first')
-        f.readline()
-        f.write('last')
-        '''
         f.close()
     
     return True
