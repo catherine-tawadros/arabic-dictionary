@@ -26,23 +26,37 @@
 		<!-- your (pl.) (m.) -->
     </p>
     <p>
-		تاسِعة
+		عَندهن
     </p>
 </body>
 
 <form class="pure-form" method="post">
-  <input type="text" id="user-ans" name="user-ans" />
+  <input type="text" autofocus="autofocus" id="user-ans" name="user-ans" />
     
-<input type="button" name="answer" onclick="showDiv('toggle')" value="show"></input>
+<input type="button" id="answer" name="answer" onclick="showDiv('toggler')" value="show"></input>
     
-    <div id="toggle" style="display:none">
-		ninth (f.)
+    <div id="toggler" style="display:none">
+		they (pl.) (f.) have
     </div>
 </form>
 
 <form class="pure-form" method="post">
-    <button name="next-quiz">Next Word</button>
     <button name="home">Home</button>
+    <button id="next-quiz" name="next-quiz">Next Word</button>
 </form>
+
+<script>
+  document.addEventListener("keypress", function(event) {
+  if (event.key === "Enter") {
+    event.preventDefault();
+    if (document.getElementById("toggler").style.display == "none") {
+      document.getElementById("answer").click();
+    }
+    else {
+      document.getElementById("next-quiz").click();
+    }
+  }
+});
+</script>
 
 </html>
