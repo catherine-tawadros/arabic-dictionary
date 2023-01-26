@@ -1,11 +1,18 @@
 ﻿ENGLISH,ARABIC,ROOT,CATEGORY,SOURCE,DATE,EQUIVALENTS
+َ,فَتْحة,,"mark, grammar",lesson 8,,
+ُ,ضَمة,,"mark, grammar",lesson 8,,
+ِ,كَسْرة,,"mark, grammar",lesson 8,,
+ّ,قَلَّ,,"mark, grammar",lesson 8,,
 a beautiful city,مدينة جميلة,,grammar,lesson 12,,
 a lot,كَثير,,,,,"very, much"
 a third,ثُلث,ث-ل-ث,"time, numbers",chapter 2.3,,third
+a week ago,قبل أسبوع,,,chapter 4.1,20.01.23,
 abu dhabi,أبو طبي,,"cities, places",lesson 7,,
 address,عُنوان,ع-ن-و,travel,chapter 3.1,,
 airport,مَطار,ط-ي-ر,travel,chapter 3.1,,
 all praises to god,الحَمْدُ لِلّه,,"dialogue, religion",lesson 11,,praises to god
+allow,سَمِحَ,,,chapter 4.1,20.01.23,permit
+also,كَمان,,,chapter 4.2,20.01.23,
 always,دائِمًا,,,,,
 america,أَمريكا,,"country, place",lesson 8,,
 american,أَمريكيّ,,"nationality, adjectives",lesson 8,,
@@ -16,7 +23,9 @@ apples,تُفَّاح,,"food, fruit",chapter 2.9,,
 april,أبْريل,,,,,
 arabic,الَرَبِيّ,,language,,,
 august,أَغُسْطُس,,,,,
+available,مَوْجود,,,chapter 6.1,18.01.23,found
 baghdad,بغداد,,"countries, places",book,,
+baked,مشوي,,food,chapter 6.1,18.01.23,grilled
 banana,مَوْزة,,"food, fruit",chapter 2.9,,
 bananas,مَوْز,,"food, fruit",chapter 2.9,,
 barrier,حجاب ,,,lesson 5,,headscarf
@@ -25,6 +34,7 @@ bathrooms ,حمّامات,,,,,
 beautiful,جميل,ج-م-ل,adjectives,lesson 5,,
 beauty,جمال,,love,lesson 5,,
 bedroom,غُرْفة نوم,,,,,
+before,قبل,,,chapter 4.1,20.01.23,
 beruit,بيروت,,"city, place",book,,
 big,كَبير,ك-ب-ر,"size, adjectives",book,,
 birth,وِلادة,و-ل-د,travel,chapter 3.1,,
@@ -34,6 +44,8 @@ blue (f.),زرْقاء,,colors,chapter 2.8,,"blue, blue (f)"
 blue (m.),أَزرق,,colors,chapter 2.8,,
 book,كِتاب,ك-ت-ب,class,book,,
 books,كتابان,ك-ت-ب,,,,
+borders,حُدود,,,chapter 4.1,20.01.23,
+box,صندوق,,,chapter 4.1,20.01.23,box
 bread,خُبْز,,food,chapter 2.9,,
 breakfast,الفُطور,,food,chapter 2.9,,the breakfast
 brother,أَخ,,"family, relatives",chapter 2.7,,
@@ -41,14 +53,17 @@ brothers/siblings,إِخْوة,,"family, relatives",,,"brothers, siblings"
 brown,بُنّيّ,,colors,chapter 2.8,,
 bus,باص,,"transportation, travel",,,
 but,ولٰكِن,,,lesson 8,,
+but,لكن,,,chapter 4.3,20.01.23,
 by car,بالسيارة,,"travel, transportation",,13.01.23,
 by plane,بالطائرة,ط-ي-ر,"travel, transportation",chapter 3.2,13.01.23,
+café,مَقْهى,,,,23.01.23,
 canada,كندا,,"countries, places",book,,
 capital,عاصِمة,,,,,
 car,سَيّارة,,"transportation, travel",,,
 cat,قِطةٌ,,,lesson 13,,
 charming,رقَيّة,,adjectives,lesson 8,,magical
 cheap,رخيص,,,,09.01.23,
+cheap,خُضار,,,chapter 6.1,18.01.23,
 cheese (collective),جُبن,,food,chapter 2.9,,cheese
 cheese (unit),جُبنة,,food,chapter 2.9,,cheese
 chicago,شيكاغو,,"cities, places",homework,,
@@ -67,6 +82,7 @@ colors,ألْوان,,colors,chapter 2.8,,
 computer,كمبيوتر,,"school, class",lesson 10,,
 computer science,علْم الكمبيوتر,,"school, class",lesson 10,,
 construct,إضافة,,,,13.01.23,
+container,صندوق,,,chapter 4.1,20.01.23,container
 country,دَوْلة,,,,,
 crown,تاج,,,lesson 5,,
 dad,أَب,,"family, relatives",chapter 2.7,,
@@ -76,26 +92,38 @@ date,تاريخ,أ-ر-خ,travel,chapter 3.1,,
 day,اليوم,,time,,,"the day, today"
 dear friend,خليل,,love,lesson 5,,friend
 december,ديسَمْبر,,,,,
+desserts,حَلَويّات,,food,chapter 6.1,18.01.23,sweets
 dinner,العَشاء,,food,chapter 2.9,,the dinner
+dinner,عشاء,,food,chapter 6.1,18.01.23,
+dish,أكلة,أ-ك-ل,food,chapter 6.1,18.01.23,food
+dishes,مأكولات,أ-ك-ل,food,chapter 6.1,18.01.23,
+distance,مَسافة,,,chapter 4.1,20.01.23,
 doctor,طبيب,,jobs,book,,
 door,باب,,,book,,
 doors,بابان,,,,,
 dress,فُسْتان,,clothes,chapter 2.8,,
+drink,اشربي,,,chapter 4.1,20.01.23,
+drinks,مشروبات,,food,chapter 6.1,18.01.23,
 dubai,دُبَي,,"cities, places",,,
 east,شرق,,direction,book,,
 eastern,شَرْقيّ,,"direction, adjectives",book,,
-eating room,غُرْفة أَكل,,,,,
+eating room,غُرْفة أَكل,أ-ك-ل,,,,
 egg,بيضة,,food,chapter 2.9,,
 eggs,بيض,,food,chapter 2.9,,
 egypt,مصر,,"countries, places",book,,
 eight,ثَمانِية,,numbers,lesson 7,,
 eighth (f.),ثاسِعة,,,,,eigthth
 eleventh (f.),الحدية عَشر,,,,,eleventh
+employee,مُوظَّف,,,chapter 4.1,20.01.23,
 engineer,مُهندس,,jobs,book,,
 engineers,مهندسان,,,,,
+evening,مَساء,,,chapter 6.1,18.01.23,
+everything,كُل شيء,,,chapter 6.1,18.01.23,
 exactly,تَماماً,,time,,,precisely
+excellent,مُمتاز,,,chapter 6.1,18.01.23,
 except,إلا,,,book,,"minus, to"
 expensive,عالي,,,,09.01.23,
+expensive,غالي,,,chapter 6.1,18.01.23,
 expression,تعبير,,,,04.01.23,
 extended family,عائِلة,,"family, relatives",chapter 2.7,,
 fair,أُجرَة,أ-ج-ر,travel,chapter 3.1,03.01.23,rent
@@ -103,6 +131,7 @@ falafel,فلافل,,food,lesson 5,,
 fall,الخَريف,,"weather, seasons",,,the fall
 family (generalized),أَهل,,"family, relatives",chapter 2.7,,family
 far from,بعيد عن,,"place, location",,,
+fast,سَريع,,,chapter 6.1,18.01.23,
 february,فِبْراير,,,,,
 festival,عيد,,,lesson 8,,
 few,قليل,,,lesson 5,,
@@ -113,6 +142,8 @@ first (f.),أولى,,,,,first
 first (m.),أوّل,,time,chapter 2.3,,first
 fish,سَمَك,,"food, meat",chapter 2.9,,
 five,خَمْسة,خ-م-س,numbers,lesson 7,,
+food,أكلة,أ-ك-ل,food,chapter 6.1,18.01.23,dish
+found,مَوْجود,,,chapter 6.1,18.01.23,available
 four,أَرْبَعة,ر-ب-ع,numbers,lesson 7,,
 fourth (f.),رابِعة,ر-ب-ع,,,,"fourth, fourth (f)"
 french,فَرنُسيّ,,"nationality, country, place",lesson 10,,
@@ -125,34 +156,47 @@ from where (informal),مِن وَين؟,,"interrogatives, question, dialogue",,,
 from/at,في,,preposition,lesson 5,,
 generous,كريم,ك-ر-م,,,09.01.23,
 girls,بنات,,people,,03.01.23,daughters
+give me,تاخُذي,,food,chapter 6.1,18.01.23,
 god,اللّٰه,,religion,lesson 7,,
+god willing,إن شاء الله,,,chapter 4.1,20.01.23,
 good,حَسَن,ح-س-ن,,,09.01.23,
 goodbye,مَعَ السّلامة,,dialogue,lesson 11,,
 greater than,أَكْبَر مِن,,superlatives,,09.01.23,bigger than
 green (f.),خَضْراء,,colors,chapter 2.8,,"green, green (f)"
 green (m.),أخْضَر,,colors,chapter 2.8,,green
+grilled,مشوي,,food,chapter 6.1,18.01.23,baked
 gym,المَلْعَب,,,,11.01.23,
 haaj,حج,,religion,lesson 5,,
 half,نُصّ,,"time, numbers",chapter 2.3,,
 happy,سَعيد,,"emotions, feelings",lesson 10,,
+have to,لازِم,,,chapter 4.1,20.01.23,must
 he,هُوَ,,pronouns,lesson 12,,
 he arrived,وَصَلَ,,"verbs, travel, past tense",chapter 3.4,09.01.23,
-he ate,أَكَلَ,,"verbs, past tense",,06.01.23,
+he ate,أَكَلَ,أ-ك-ل,"verbs, past tense",,06.01.23,
 he did,فَعَلَ,,"verbs, past tense",,09.01.23,
+he found,وَجَدَ,,,chapter 4.1,20.01.23,
 he has,عَندهُ,,"possession, dialogue",,,
+he knew,عَرَفَ,,,,23.01.23,
 he learned,تَعَلَّمَ,ع-ل-م,"verbs, past tense",,06.01.23,
-he lived,سَكَنَ,,"verbs, past tense",chapter 3.4,06.01.23,
-he lives,يَسْكُن,,"verbs, present tense",,11.01.23,
-he said,قال,,,lesson 6,,
+he left,تَرَكَ,,,chapter 4.3,20.01.23,
+he lived,سَكَنَ,س-ك-ن,"verbs, past tense",chapter 3.4,06.01.23,
+he lives,يَسْكُن,س-ك-ن,"verbs, present tense",,11.01.23,
+he looked for,فتّش على,,,chapter 4.1,20.01.23,
+he requested,طلَب,,,chapter 4.1,20.01.23,"he sought, he asked for, he ordered"
+he reserved,حَخَزَ,,,chapter 4.1,20.01.23,20.01.23
 he said,قالَ,,"verbs, past tense",,09.01.23,
-he slept,نامَ,,"verbs, past tense",,09.01.23,
+he said,قال,,,lesson 6,,
+he slept,نامَ,ن-ا-م,"verbs, past tense",,09.01.23,
 he speaks,بيحكي,,"verbs, travel, past tense",chapter 3.4,09.01.23,
 he studied,دَرَسَ,د-ر-س,"verbs, past tense",,06.01.23,
 he studies,يَدْرُس,د-ر-س,"verbs, present tense",,11.01.23,
+he took,أخذ,,,chapter 4.1,20.01.23,
 he traveled,سافر,س-ف-ر,travel,chapter 3.1,03.01.23,
-he was,كانَ,,"verbs, past tense",,09.01.23,
+he was,كانَ,ك-ا-ن,"verbs, past tense",,09.01.23,
 he went (dialect),راحَ,,"verbs, travel, past tense",chapter 3.4,09.01.23,
 he went (formal),ذَهَبَ,,"verbs, travel, past tense",chapter 3.4,09.01.23,
+he wills,شاءَ,,,chapter 4.1,20.01.23,
+head,رأس,,,,23.01.23,
 headscarf,حجاب,,clothes,chapter 2.8,,barrier
 hello,السّلا مُ عَليْكم,,dialogue,lesson 11,,
 hello,أَهْلاً وَ سَهْلا,,"dialogue, greeting",lesson 11,,
@@ -175,17 +219,24 @@ how (dialect),كيف...؟,,"dialogue, question",lesson 15,,
 how (formal),كَيْفَ...؟,,"interrogatives, question",,,
 how are you? (formal),كَيْفَ حالُك؟,,dialogue,lesson 11,,
 how are you? (informal),كيفَك؟,,dialogue,lesson 11,,
+how can I help you?,أَيّ خِدمة؟,,,,23.01.23,
 how many?,كَم؟,,question,lesson 14,,
-how old are you?,كَم عُمْرَك؟,,dialogue,lesson 11,,
 how old are you?,كم ولادتي؟,,,,04.01.23,
+how old are you?,كَم عُمْرَك؟,,dialogue,lesson 11,,
 how was class?,كيف كانَتْ الصَفّ؟,,dialogue,,09.01.23,
 how was the weekend?,كيف كانَتْ العُطلة؟,,dialogue,,09.01.23,
 I,أنا,,pronouns,lesson 5,,
+I celebrated ____,إِحْتَفَلْتُ بــــــــ,,,,23.01.23,
+I did,سَوّيت,,,chapter 4.2,20.01.23,
 I did not,ما فَعَلْتُ,,"verbs, past tense",,09.01.23,
 I don't love,لا أُحِبّ,ح-ي-ب,,,,
 I don't love (dialect),ما بحِبّ,ح-ي-ب,,,,
 I don't work,لا أَعْمل,,"dialogue, work",lesson 11,,
-I eat,أكل,,food,chapter 2.9,,eat
+I drink,باشرب,,,chapter 4.1,20.01.23,
+I eat,أكل,أ-ك-ل,food,chapter 2.9,,eat
+I go,أروح,,,chapter 4.1,20.01.23,
+I go back,أرجع,,,chapter 4.1,20.01.23,
+I had _____,كانَ عندي _____,,,chapter 4.1,20.01.23,
 I have,عَندي,,"possession, dialogue",,,
 I have class,صفوف عىدي,,,,,
 I live (f.) (dialect),ساكِنة,س-ك-ن,"dialogue, question",lesson 15,,"I live, I live (f)"
@@ -194,22 +245,29 @@ I live in,أَسْكُن في,س-ك-ن,"dialogue, place, introduction",lesson 11
 I love,أُحِبّ,ح-ي-ب,,,,
 I love (dialect),بحِبّ,ح-ي-ب,,,,"I like, I love"
 I said,قُلْتُ,,"verbs, past tense",,09.01.23,
-I slept,نِمْتُ,,"verbs, past tense",,09.01.23,
+I slept,نِمْتُ,ن-ا-م,"verbs, past tense",,09.01.23,
 I study,أَدْرُس,د-ر-س,"school, class, dialogue",lesson 10,,
 I traveled to _____,سافَرتُ إِلى,,,chapter 3.1,09.01.23,
-I was,كُنْتُ,,"verbs, past tense",,09.01.23,
+I want,أُريد,,,chapter 4.1,20.01.23,
+I was,كُنْتُ,ك-ا-ن,"verbs, past tense",,09.01.23,
 I work at,أعمل في,,"dialogue, work",lesson 11,,I work in
 I work in/with,أَعْمَلَ مع,,"dialogue, work",lesson 11,,"I work in, I work with"
+if,إذا,,,chapter 4.1,20.01.23,
+if you permit,لَوْ سَمِحْت,,,chapter 4.1,20.01.23,if you allow
+if you please,من فَضلك,,,chapter 4.1,20.01.23,
 illinois,إِلينوي,,"state, place",,,
 I'm good,بِخيْر,,dialogue,lesson 11,,good
 in it (f.),فيه,,,lesson 15,,
 in it (m.),فيها,,,lesson 15,,
+in my opinion,في رَأْيي,,,chapter 6.1,18.01.23,
 intern,مُساعِدَة,,"dialogue, work",lesson 11,,
 iraq,العراق,,"countries, places",book,,
 iraqi,عراقيّ,,"nationality, adjectives",book,,
 issue,الصدور,,,chapter 3.1,04.01.23,
 it (f.) flew,طارَت,ط-ي-ر,travel,chapter 3.1,03.01.23,"she flew, it flew, it (f) flew, it flew (f), it flew (f.)"
+it happened,حَدَثَ,,,chapter 4.3,20.01.23,
 it is located,تَقع,,"place, location",,,
+it is necessary,لازِم,,,chapter 6.1,18.01.23,
 jacket,جاكيت,,clothes,chapter 2.8,,coat
 january,يناير,,,,,
 jerusalem,القدس,,"cities, places",book,,
@@ -221,18 +279,24 @@ knowledge,علْم,ع-ل-م,"school, class",lesson 10,,
 kuwait,الكويت,,"countries, places",book,,
 kuwaiti,كويتيّ,,"nationality, adjectives",book,,
 lake,بُحيْرة,,"place, location",,,
+lamb,خَروف,,food,chapter 6.1,18.01.23,
 last (m.),آخِر,,time,chapter 2.3,,last
 last _____,ــــــ الماضي,,time,,13.01.23,
 lebanese,لبنانيّ,,"nationality, adjectives",book,,
 lebanon,لبنان,,"countries, places",book,,
+left,يَسار,,,chapter 6.1,18.01.23,
 library,مَكتبة,ك-ت-ب,"place, work",1.3.23,,
 libya,ليبيا,,"countries, places",book,,
 light,نور,,,lesson 2,,
+long,طويل,,,chapter 4.1,20.01.23,
+lost and found box,صَندوق الموجودات,,,chapter 4.1,20.01.23,
 lunch,الغَداء,,food,chapter 2.9,,the lunch
 magical,رقَيّة,,adjectives,lesson 8,,charming
 majestic,مَجيد,م-ج-د,,,09.01.23,
 march,مارس,,,,,
+math,الرِّياضيات,,,,23.01.23,
 may,مايو,,,,,
+maybe,مُمكِن,,,chapter 6.1,18.01.23,perhaps
 me too,أنا كَمان,,dialogue,lesson 11,,
 medium,مُتَوَسِّط,,,,,
 milk,حليب,,"food, drink",chapter 2.9,,
@@ -246,8 +310,11 @@ monday,يوم الٱِثْنَين,ث-ن-ي,"days, week, time",lesson 12,,
 month,الشَّهر,,time,chapter 2.3,,the month
 months,شهور,,,chapter 3.1,04.01.23,
 moon,قمر,,,book,,
+mountain,جَبَل,,,chapter 4.5,20.01.23,
 much,أبو,,,lesson 7,,dad
 muslim,مُسْلم,,religion,lesson 9,,
+must,لازِم,,,chapter 6.1,18.01.23,
+must,لازِم,,,chapter 4.1,20.01.23,have to
 my,ـي,,"possession, pronouns",lesson 13,,
 my brother,أخوي,,,chapter 3.4,04.01.23,
 my dog,كلبي,,"pet, animal",lesson 4,,
@@ -277,10 +344,12 @@ occupation,المهنة,,,chapter 3.1,04.01.23,job
 ocean,المُحيط,,,,,
 october,أُكْتُوبَر,,,,,
 office,مَكتَب,ك-ت-ب,"place, work",1.3.23,,
-old,كَبير,ك-ب-ر,"age, adjectives",lesson 8,,
+okay,طيّب,,,chapter 4.1,20.01.23,
 old,قَديم,ق-د-م,,,09.01.23,ancient
+old,كَبير,ك-ب-ر,"age, adjectives",lesson 8,,
 one,واحِد,و-ح-د,numbers,lesson 7,,
 only child (m.),الوَلَد,و-ل-د,"family, relatives",chapter 2.7,,"child, son, only son"
+opinion,رَأْي,,,chapter 6.1,18.01.23,
 orange,بُرْتُقالة,,"food, fruit",chapter 2.9,,
 orange,بُرْتُقاليّ,,colors,chapter 2.8,,
 oranges,بُرْتُقال,,"food, fruit",chapter 2.9,,
@@ -293,13 +362,16 @@ parents (dual),أَبوان,,"family, relatives",,,parents
 passport,جِواز سَفَر,,travel,chapter 3.1,03.01.23,
 past,الماضِس,,,,06.01.23,
 past tense,الفِعل الماضِس,,,,06.01.23,
+perhaps,مُمكِن,,,chapter 6.1,18.01.23,maybe
 period,مدّة,,,chapter 3.1,04.01.23,
+permit,سَمِحَ,,,chapter 4.1,20.01.23,allow
 pink,زهريّ,,colors,chapter 2.8,,"pink (m), pink (m.)"
-place,مَكان,ك-و-ن,travel,chapter 3.1,,
+place,مَكان,ك-ا-ن,travel,chapter 3.1,,
 plane,طائِرة,ط-ي-ر,"transportation, travel",,03.01.23,
 plane,طيّارة,ط-ي-ر,"transportation, travel",,03.01.23,
 pleased to meet you,تَشَرَّفْنا,,"dialogue, greeting",lesson 11,,nice to meet you
 pleasure to meet you,تَشَرَّفْنا,,dialogue,lesson 10,,nice to meet you
+possible,مُمكِن,,,chapter 4.1,20.01.23,
 potato,بطاطا,,food,book,,
 praiseworthy,حَمْد,ح-م-د,,,09.01.23,
 president,رَئيس,,"titles, jobs, politics",lesson 9,,
@@ -318,10 +390,15 @@ red meat,لَحم,,"food, meat",,,
 rent,أُجرَة,أ-ج-ر,travel,chapter 3.1,03.01.24,fair
 restaurant,مَطعم,,"place, location, food",,,
 restaurants,مَطاعِم,,"place, location, food",,,
+restaurants,مَطاعِم,,food,chapter 6.1,18.01.23,
 rice,زُزّ,,food,,,
+rice,رزّ,,food,chapter 6.1,18.01.23,
+right,يَمين,,,chapter 6.1,18.01.23,
 road,شارع,,"transportation, travel",,,street
+road,طريق,,,chapter 6.1,18.01.23,
 room,غُرْفة,,,,,
 rooms,غُرَف,,,,,
+salad,سَلَطة,,food,chapter 6.1,18.01.23,
 same,نَفْس,,,lesson 10,,
 saturday,يوم السَّبت,س-ب-ع,"days, week, time",lesson 12,,
 school,مَدْرَسة,د-ر-س,"place, location",,,
@@ -330,6 +407,7 @@ science,علْم,ع-ل-م,"school, class",lesson 10,,
 seasons of the year,فصول السِّنة,,"weather, seasons",,,
 second (f.),ثانية,ث-ن-ي,,,,second
 september,سِبْتِمْبِر,,,,,
+service,خِدمة,,,chapter 4.1,20.01.23,
 seven,سبْعة,س-ب-ع,numbers,lesson 7,,
 seventh (f.),سابِعة,س-ب-ع,,,,"seventh, seventh (f)"
 shami,شامي,,,lesson 6,,
@@ -337,15 +415,17 @@ she,هِتَ,,pronouns,lesson 12,,
 she flew,طارَت,ط-ي-ر,travel,chapter 3.1,03.01.23,"it (f.) flew, it flew, it (f) flew, it flew (f), it flew (f.)"
 she has,عَندها,,"possession, dialogue",,,
 she is living,ساكنة,س-ك-ن,,,03.01.23,
-she lives,تَسْكُن,,"verbs, present tense",,11.01.23,
+she lives,تَسْكُن,س-ك-ن,"verbs, present tense",,11.01.23,
 she studied,دَرَسَت,د-ر-س,"verbs, past tense",,06.01.23,
 she studies,تَدْرُس,د-ر-س,"verbs, present tense",,11.01.23,
 she traveled,سافرت,س-ف-ر,travel,chapter 3.1,03.01.23,
-she was,كانَتْ,,"verbs, past tense",,09.01.23,
+she was,كانَتْ,ك-ا-ن,"verbs, past tense",,09.01.23,
 shirt,قَميص,,clothes,chapter 2.8,,
 shoes,كُندَرة,,clothes,chapter 2.8,,
+should,لازِم,,,chapter 6.1,18.01.23,
 sister,أُخْت,,"family, relatives",chapter 2.7,,
 sisters,أَخَوات,,"family, relatives",,,
+sit down,اقعدي,,,chapter 4.1,20.01.23,
 sitting room,غُرْفة جُلوس,,,,,
 six,سِتّة,س-ت-ة,numbers,lesson 7,,
 sixth (f.),سادسة,س-ت-ة,,,,"sixth, sixth (f)"
@@ -353,27 +433,36 @@ small,صغير,ص-غ-ر,"size, adjectives",book,,
 snow,ثلج,,weather,,,
 snowy,مُثَلِج,,weather,,,
 soap,صابون,,,lesson 6,,
+something sweet,شيء حلو,,food,chapter 6.1,18.01.23,
 sometimes,أحْيانًا,,,,,
+sorry,أسِف,,,chapter 4.1,20.01.23,
 south,جنوب,,direction,book,,
 southern,جَنوبيّ,,"direction, adjectives",book,,
+specially,خصوصاً,,,chapter 6.1,18.01.23,
+sports,الرِّياضة,,,,23.01.23,
 spring,الرَّبيع,,"weather, seasons",,,
 state,وِلاية,,"places, states",lesson 8,,
 stop,بس,,,lesson 4,,no more
 street,شارع,,places,lesson 7,,road
-student,طالِب,,"job, class, school",book,,
-students (f.),طالِبتَين,,,,,"students, students (f)"
+student,طالِب,ط-ل-ب,"job, class, school",book,,
+students (f.),طالِبتَين,ط-ل-ب,,,,"students, students (f)"
 sudan,السودان,,"countries, places",book,,
 sugar,السُكَّر,,food,,,the sugar
+suitcase,شنطة,,,chapter 4.3,20.01.23,
+suitcases,شنط,,,chapter 4.3,20.01.23,
 summer,الصَّيْف,,"weather, seasons",,,the winter
 sun,شمس,,,book,,
 sunday,يوم اُلأَحد,أ-ح-د,"days, week, time",lesson 12,,
 sunny,مُشَمِس,,weather,,,
+sweet,حلو,,food,chapter 6.1,18.01.23,
+sweets,حَلَويّات,,food,chapter 6.1,18.01.23,desserts
 syria,سوريا,,"countries, places",book,,
 syrian,سوريّ,,"nationality, adjectives",book,,
 taxi fare,أَجرة التاكسي,,"travel, transportation",,13.01.23,
 teacher,أُستاذ,,"jobs, class, school",book,,professor
 ten,عَشرة,,numbers,lesson 7,,
 tenth (f.),عاشِرة,,,,,
+test,اِمتِحان,,,chapter 4.1,20.01.23,
 thank you,شُكراً,,dialogue,lesson 9,,
 the afternoon,بعد الظُهر,,time,,13.01.23,
 the arab country,الدَّولة الَرَبِيّة,,,,,
@@ -383,6 +472,7 @@ the beautiful city,ألمدينة الجميلة,,grammar,lesson 12,,
 the best,أَحْسَن,ح-س-ن,superlatives,,09.01.23,
 the black sea,البَحر الأسْود,,"place, location, geography",,,
 the city is beautiful,المدينة جميلة,,grammar,lesson 12,,
+the first time,المرة الأولى,,,,23.01.23,
 the greatest,أَكْبَر,ك-ب-ر,superlatives,,09.01.23,the biggest
 the hour,السّاعة,س-ا-ع-ة,,,,hour
 the last day,اليوم الآخِر,,time,,,
@@ -392,6 +482,7 @@ the most beautiful,أَجْمَل,ج-م-ل,superlatives,,09.01.23,
 the most generous,أَكْرَم,ك-ر-م,superlatives,,09.01.23,
 the most majestic,أَمْجَد,م-ج-د,superlatives,,09.01.23,
 the most praiseworthy,أَحْمَد,ح-م-د,superlatives,,09.01.23,
+the new year,رأس السنة,,,,23.01.23,
 the oldest,أَقْدَم,ق-د-م,superlatives,,09.01.23,the most ancient
 the pleasure is mine,الشَّرَفاي,,dialogue,lesson 10,,
 the red sea,البَحر الأحْمر,,"place, location, geography",,,
@@ -403,6 +494,7 @@ their (2),ـــهُما,,"pronouns, possession",,06.01.23,their (dual)
 their (f.) (pl.),ـــهُنَّ,,"pronouns, possession",,06.01.23,"their (f) (pl), their (pl.) (f.), their (pl) (f), their (f pl)"
 their (pl.) (f.),ـهُنَّ,,"possession, pronouns",,,
 their (pl.) (m.),ـهم,,"possession, pronouns",lesson 13,,
+then,بعدين,,,chapter 4.1,20.01.23,
 they,هُم,,pronouns,lesson 12,,
 they (2),هُما,,pronouns,,06.01.23,they (dual)
 they (f.) (pl.),هُنَّ,,pronouns,,06.01.23,"they (f) (pl), they (pl.) (f.), they (pl) (f), they (f pl)"
@@ -412,7 +504,7 @@ they studied (f.) (2),دَرَسَتا,د-ر-س,"verbs, past tense",,06.01.23,th
 they studied (f.) (pl.),دَرَسنَ,د-ر-س,"verbs, past tense",,06.01.23,"they studied (f) (pl), he (f) (pl) studied, he (f.) (pl.) studied)"
 they studied (m.) (2),دَرَسا,د-ر-س,"verbs, past tense",,06.01.23,they studied (m) (dual)
 they studied (m.) (pl.),دَرَسوا,د-ر-س,"verbs, past tense",,06.01.23,"they studied (m) (pl), he (m) (pl) studied, he (m.) (pl.) studied)"
-they were,كانوا,,"verbs, past tense",,09.01.23,
+they were,كانوا,ك-ا-ن,"verbs, past tense",,09.01.23,
 third (f.),ثالثة,ث-ل-ث,,,,third
 this (f.),هَذَا,,,lesson 13,,
 this (f.),هٰذِهِ,,,,,
@@ -422,11 +514,16 @@ three,ثَلاثة,ث-ل-ث,numbers,lesson 7,,
 thursday,يوم الخَميس,خ-م-س,"days, week, time",lesson 12,,
 time,ساعة,س-ا-ع-ة,time,chapter 2.3,,"clock, hour"
 tired,تعبان,,adjectives,lesson 6,,
-to,إلا,,preposition,book,,"except, minus"
+tired,تَعبان,,,chapter 4.1,20.01.23,
 to,إِلى,,,,06.01.23,
+to,إلا,,preposition,book,,"except, minus"
+to ask,طلَب—يطلُب,ط-ل-ب,,chapter 6.1,18.01.23,
+to order,طلَب—يطلُب,ط-ل-ب,food,chapter 6.1,18.01.23,
+to seek,طلَب—يطلُب,ط-ل-ب,food,chapter 6.1,18.01.23,
 today,اليوم,,time,chapter 2.3,,"day, the day"
 tomato,بَنْدورة,,"food, fruit",chapter 2.9,,
 train,قِطار,,"transportation, travel",,,
+trip,رِحلة,,,chapter 4.1,20.01.23,
 tripoli,طرابلس,,"cities, places",book,,
 tuesday,يوم الثْلاثاء,ث-ل-ث,"days, week, time",lesson 12,,
 tunisa,تونيس,,"countries, places",book,,
@@ -435,6 +532,7 @@ two,إِثْنان,ث-ن-ي,numbers,lesson 7,,
 two brothers,أخوان,,"family, relatives",,,brothers (dual)
 two rooms,غُرْفتان,,house,,,
 university,جامِعَة,ج-م-ع,"places, class, school",,,
+upset,زَعلان,,,chapter 4.1,20.01.23,
 verb,الفِعل,,,,06.01.23,
 very,كَثير,,,,,"a lot, much"
 very,جِدًّا,,,,,
@@ -445,7 +543,7 @@ water,مَيّة,,"food, drink",chapter 2.9,,
 water,ماء,,"food, drink",chapter 2.9,,
 we,نَحْنُ,,pronouns,lesson 12,,
 we have,عَندنا,,"possession, dialogue",,,
-we were,كُنّا,,"verbs, past tense",,09.01.23,
+we were,كُنّا,ك-ا-ن,"verbs, past tense",,09.01.23,
 weather,الجَوّ,,weather,,,
 weather,الطَّقْس,,weather,,,the weather
 wednesday,يوم الأَرْبِعاء,ر-ب-ع,"days, week, time",lesson 12,,
@@ -491,6 +589,7 @@ window,شُبّاك,,,book,,thanks
 winter,الشِّتاء,,"weather, seasons",lesson 18,,the winter
 with,مع,,preposition,1.3.23,,
 with _____,بــــــ,,,,,with
+with me,معي,,,chapter 4.1,20.01.23,
 with milk,بحَليب,,,,,
 with sugar,بِسُكر,,,,,
 without,بِدون,,,,,
@@ -512,21 +611,27 @@ you (2),أَنتُما,,pronouns,,06.01.23,you (dual)
 you (f.),أَنْتِ,,pronouns,lesson 12,,you
 you (f.) (pl.),أَنتُنَّ,,pronouns,,06.01.23,"you (f) (pl), you (pl.) (f.), you (pl) (f), you (f pl)"
 you (f.) have,عَندُكِ,,"possession, dialogue",,,"you have, you (f) have"
-you (f.) were,كُنْتِ,,"verbs, past tense",,09.01.23,
+you (f.) were,كُنْتِ,ك-ا-ن,"verbs, past tense",,09.01.23,
 you (m.),أَنْتَ,,pronouns,lesson 12,,you
 you (m.) have,عَندُكَ,,"possession, dialogue",,,"you have, you (m) have"
-you (m.) were,كُنْتَ,,"verbs, past tense",,09.01.23,
+you (m.) were,كُنْتَ,ك-ا-ن,"verbs, past tense",,09.01.23,
 you (pl.),أنتُم,,pronouns,lesson 12,,"you, you all"
 you (pl.) (f.) have,عَندكن,,"possession, dialogue",,,
 you (pl.) (m.) have,عَندكم,,,,,
-you (pl.) were,كُنْتُم,,"verbs, past tense",,09.01.23,
+you (pl.) were,كُنْتُم,ك-ا-ن,"verbs, past tense",,09.01.23,
+you became upset,زعلت,,,chapter 4.2,20.01.23,
+you know,بتعرفي,,,chapter 4.1,20.01.23,
 you live (f.),تسكنين,س-ك-ن,"question, places, introduction, dialogue",lesson 7,,"you live, live (f.), live (f), you (f.) live, you (f) live"
 you live (m.),تسكن,س-ك-ن,"question, places, introduction, dialogue",lesson 7,,"you live, live (m.), live (m), you (m.) live, you (m) live"
+you lost it,ضيّعتيه,,,chapter 4.1,20.01.23,
+you return,بترجعي,,,chapter 4.1,20.01.23,
 you studied (2),دَرَستُما,د-ر-س,"verbs, past tense",,06.01.23,you studied (dual)
 you studied (f.),دَرَست,د-ر-س,"verbs, past tense",,06.01.23,
 you studied (f.) (pl.),دَرَستُنَّ,د-ر-س,"verbs, past tense",,06.01.23,
 you studied (m.),دَرَستَ,د-ر-س,"verbs, past tense",,06.01.23,
 you studied (m.) (pl.),دَرَستُم,د-ر-س,"verbs, past tense",,06.01.23,
+you take,تاخُذي,,,chapter 6.1,18.01.23,
+you want,بِدَّك,,,chapter 4.1,20.01.23,
 young,صَغير,,"age, adjectives",lesson 8,,
 young people,شباب,,,lesson 4,,
 young person,شاب,,,lesson 4,,
@@ -537,7 +642,4 @@ your (m.),ـكَ,,"possession, pronouns",lesson 13,,
 your (pl.) (f.),ـكن,,"possession, pronouns",,,
 your (pl.) (m.),ـكم,,"possession, pronouns",lesson 13,,
 you're welcome,عفواً,,dialogue,book,,
-َ,فَتْحة,,"mark, grammar",lesson 8,,
-ُ,ضَمة,,"mark, grammar",lesson 8,,
-ِ,كَسْرة,,"mark, grammar",lesson 8,,
-ّ,قَلَّ,,"mark, grammar",lesson 8,,
+,,,,,,
