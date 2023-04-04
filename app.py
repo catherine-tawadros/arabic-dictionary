@@ -74,7 +74,7 @@ class Quiz:
         self.category = c
         self.chapter = ch
         FIRST = datetime.datetime.strptime("09-21-2022",'%m-%d-%Y')
-        LAST =  datetime.datetime.strptime("01-17-2023",'%m-%d-%Y')
+        LAST =  datetime.datetime.strptime("04-03-2023",'%m-%d-%Y')
         if self.start_date == FIRST and self.end_date == LAST:
             self.include_all_dates = True
         else:
