@@ -196,6 +196,8 @@ def search_by_word(word):
     if word=='':
         return arabic_dict
     
+    word = word.lower()
+    
     real_word = arabic_dict.loc[arabic_dict.ENGLISH == word]
     hasword = arabic_dict.apply(lambda x: word in x[0], axis=1).values
     close_word = arabic_dict.loc[hasword]
@@ -217,6 +219,8 @@ def search_by_word(word):
 def search_by_cat(category):
     arabic_dict = pd.read_csv('arabic words.csv')
     arabic_dict = arabic_dict.fillna('').drop(columns=["SOURCE","DATE","EQUIVALENTS"])
+    
+    category = category.lower()
     
     allcats = [x.strip() for x in category.split(',')]
     relatedcat = arabic_dict.apply(lambda x: sum(cat in x.CATEGORY for cat in allcats), axis=1).sort_values(ascending=False)
